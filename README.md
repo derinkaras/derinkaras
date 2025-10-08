@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 I’m currently learning **SpringBoot AWS Backend**
-- 🤖 I’m currently working on **A**
+<!-- 🤖 I’m currently working on ****-->
 - 🤝 I’m looking to collaborate on **machine learning projects (esp. NLP)**
 - 💬 Ask me about **React, ReactNative, Express APIs, Springboot APIs and collaborative projects**
 - 📫 How to reach me: **derinkaras@gmail.com**
