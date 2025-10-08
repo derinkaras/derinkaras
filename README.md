@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **SpringBoot + AWS Backend**
 - 💬 Ask me about **React, ReactNative, Express APIs, Springboot APIs and collaborative projects**
 - 📫 How to reach me: **derinkaras@gmail.com**
-- ⚡ Fun fact: **I'm the best dev you'll meet**
 
 ---
 
