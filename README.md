@@ -5,11 +5,10 @@
 </p>
 
 - 🌱 I’m currently learning **SpringBoot AWS Backend**
-<!-- 🤖 I’m currently working on ****-->
-- 🤝 I’m looking to collaborate on **machine learning projects (esp. NLP)**
 - 💬 Ask me about **React, ReactNative, Express APIs, Springboot APIs and collaborative projects**
 - 📫 How to reach me: **derinkaras@gmail.com**
 - ⚡ Fun fact: **I'm the best dev you'll meet**
+<!-- 🤖 I’m currently working on ****-->
 
 ---
 
@@ -23,8 +22,7 @@
 ### Languages & Tools
 <!-- Quick, clean icons via skillicons.dev → edit the list to match your stack -->
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,swift,go,cpp,cs,html,css,react,nextjs,nodejs,express,tailwind,androidstudio,raspberrypi,sqlite,mysql,postgres,redis,prisma,linux,docker,git,github,aws,gcp,,figma&perline=14"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,express,python,html,css,tailwind,java,c,aws,spring,sql,mysql,sqlite,git,github,vscode&perline=12"/>
 </p>
-
 ---
 
