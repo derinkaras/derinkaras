@@ -4,12 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=derinkaras&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
-- 🌱 I’m currently learning **Data Science & Privacy**
-- 🤖 I’m currently working on **Tesseract**
+- 🌱 I’m currently learning **SpringBoot AWS Backend**
+- 🤖 I’m currently working on **A**
 - 🤝 I’m looking to collaborate on **machine learning projects (esp. NLP)**
-- 💬 Ask me about **Swift, React, and ML techniques**
-- 📫 How to reach me: **you@example.com**
-- ⚡ Fun fact: **I’m absolutely hilarious**
+- 💬 Ask me about **React, ReactNative, Express APIs, Springboot APIs and collaborative projects**
+- 📫 How to reach me: **derinkaras@gmail.com**
+- ⚡ Fun fact: **I'm the best dev you'll meet**
 
 ---
 
