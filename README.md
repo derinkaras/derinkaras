@@ -20,30 +20,34 @@
 ---
 
 <!-- Quick, clean icons via skillicons.dev → edit the list to match your stack -->
-**Languages**
+### Languages & Tools
+<p align="center">
+
+
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,c&perline=10"/>
 
 
-**Frontend**
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,tailwind&perline=10"/>
 
 
-**Backend & APIs**
+**Backend & APIs**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=10"/>
 
 
-**Databases**
+**Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=10"/>
 
 
-**Cloud & Services**
+**Cloud & Services**<br/>
 <img src="https://skillicons.dev/icons?i=aws,firebase&perline=10"/>
 
 
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10"/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github&perline=10"/>
 
 
-</div>
+</p>
 ---
 
