@@ -1,6 +1,8 @@
-# Hi there, I'm **YOUR_NAME** 👋
+# Hi there, I'm Derin Karas 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=derinkaras&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
 
 - 🌱 I’m currently learning **Data Science & Privacy**
 - 🤖 I’m currently working on **Tesseract**
