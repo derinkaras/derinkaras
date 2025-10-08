@@ -21,8 +21,9 @@
 
 ### Languages & Tools
 <!-- Quick, clean icons via skillicons.dev → edit the list to match your stack -->
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,express,python,html,css,tailwind,java,c,aws,spring,sql,mysql,sqlite,git,github,&perline=8"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,express,python,html,css,tailwind,java,c,aws,spring,mysql,sqlite,git,github&perline=16" />
 </p>
+
 ---
 
