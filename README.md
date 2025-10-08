@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=derinkaras&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
-- 🌱 I’m currently learning **SpringBoot AWS Backend**
+- 🌱 I’m currently learning **SpringBoot + AWS Backend**
 - 💬 Ask me about **React, ReactNative, Express APIs, Springboot APIs and collaborative projects**
 - 📫 How to reach me: **derinkaras@gmail.com**
 - ⚡ Fun fact: **I'm the best dev you'll meet**
