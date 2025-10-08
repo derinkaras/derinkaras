@@ -29,7 +29,9 @@
 
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,reactnative,html,css,tailwind&perline=10"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=8" />
+</p>
 
 
 **Backend & APIs**<br/>
