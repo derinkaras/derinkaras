@@ -23,31 +23,47 @@
 ### Languages & Tools
 <p align="center">
 
+<h3 align="center">🧰 Languages & Tools</h3>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c&perline=10"/>
+<div align="center">
 
+<!-- Languages -->
+<h4>Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c&perline=8" />
+</p>
 
-**Frontend**<br/>
-<p align="center">
+<!-- Frontend -->
+<h4>Frontend</h4>
+<p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=8" />
 </p>
 
+<!-- Backend & APIs -->
+<h4>Backend & APIs</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
+</p>
 
-**Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=10"/>
+<!-- Databases -->
+<h4>Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=8" />
+</p>
 
+<!-- Cloud & Services -->
+<h4>Cloud & Services</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase&perline=8" />
+</p>
 
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=10"/>
+<!-- Tools -->
+<h4>Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=8" />
+</p>
 
-
-**Cloud & Services**<br/>
-<img src="https://skillicons.dev/icons?i=aws,firebase&perline=10"/>
-
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github&perline=10"/>
+</div>
 
 
 </p>
